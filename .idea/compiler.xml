@@ -21,7 +21,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="chd6.3.0" target="1.8" />
+      <module name="cdh6.3.0" target="1.8" />
       <module name="flink_demo" target="1.8" />
       <module name="gotest" target="1.8" />
       <module name="hive_udf" target="1.8" />

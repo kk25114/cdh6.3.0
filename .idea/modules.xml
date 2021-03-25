@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/chd6.3.0.iml" filepath="$PROJECT_DIR$/chd6.3.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdh6.3.0.iml" filepath="$PROJECT_DIR$/cdh6.3.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/flink_demo/flink_demo.iml" filepath="$PROJECT_DIR$/flink_demo/flink_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/gotest/gotest.iml" filepath="$PROJECT_DIR$/gotest/gotest.iml" />
       <module fileurl="file://$PROJECT_DIR$/hive_udf/hive_udf.iml" filepath="$PROJECT_DIR$/hive_udf/hive_udf.iml" />

@@ -6,7 +6,7 @@ import java.util.*;
 public class BmkController {
     private static String JDBC_DRIVER = "com.cloudera.impala.jdbc41.Driver";
 //    private static String CONNECTION_URL = "jdbc:impala://192.168.50.135:21050/";
-    private static String CONNECTION_URL = "jdbc:impala://10.8.4.170:21050/";
+    private static String CONNECTION_URL = "jdbc:impala://10.214.22.46:21050/";
     //    private static String CONNECTION_URL = "jdbc:impala://10.9.4.89:21050/";
     private static final String SQL_STATEMENT = "";
     private static Connection con = null;

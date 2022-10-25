@@ -24,9 +24,10 @@
             </releases>
         </repository>
         <repository>
-            <id>maven2</id>
-            <url>http://repository.jspresso.org/maven2/</url>
-            <name>Maven2 Repositories</name>
+            <id>central</id>
+            <name>Central Repository</name>
+            <url>https://repo.maven.apache.org/maven2</url>
+            <layout>default</layout>
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>

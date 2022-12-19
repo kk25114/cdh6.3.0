@@ -20,7 +20,6 @@
         <module>java</module>
         <module>kudu_start</module>
         <module>flink_demo</module>
-        <module>gotest</module>
 
 
     </modules>

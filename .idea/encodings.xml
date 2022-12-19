@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink_demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hive_udf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdbc_dmeo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kudu_start" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kylin_jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scala_demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark_count" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark_job" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spark_sql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structured_streaming" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

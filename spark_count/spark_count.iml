@@ -5,7 +5,6 @@
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/scala" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
@@ -46,6 +45,7 @@
     <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
     <orderEntry type="library" name="Maven: commons-beanutils:commons-beanutils:1.9.3" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-configuration2:2.1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.re2j:re2j:1.1" level="project" />
     <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:2.5.0" level="project" />
     <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.2.4" level="project" />
     <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-auth:3.0.0-cdh6.3.0" level="project" />
@@ -165,13 +165,7 @@
     <orderEntry type="library" name="Maven: org.codehaus.janino:commons-compiler:3.0.9" level="project" />
     <orderEntry type="library" name="Maven: org.antlr:antlr4-runtime:4.7" level="project" />
     <orderEntry type="library" name="Maven: org.apache.parquet:parquet-column:1.9.0-cdh6.3.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.parquet:parquet-common:1.9.0-cdh6.3.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.parquet:parquet-encoding:1.9.0-cdh6.3.0" level="project" />
-    <orderEntry type="library" name="Maven: com.google.re2j:re2j:1.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.parquet:parquet-hadoop:1.9.0-cdh6.3.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.parquet:parquet-format:2.4.0-cdh6.3.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.parquet:parquet-jackson:1.9.0-cdh6.3.0" level="project" />
-    <orderEntry type="library" name="Maven: commons-pool:commons-pool:1.6" level="project" />
     <orderEntry type="library" name="Maven: org.apache.arrow:arrow-vector:0.10.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.arrow:arrow-format:0.10.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.arrow:arrow-memory:0.10.0" level="project" />
